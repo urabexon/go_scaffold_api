@@ -1,4 +1,4 @@
-# scaffold_go_api
+# go_scaffold_api
 
 Go Scaffold API
 
